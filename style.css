@@ -1,0 +1,123 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 50px;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+
+footer p {
+    font-size: 20px;
+    background-color:white;
+}
+
+header {
+    background-color: rgba(121, 41, 183, 1);
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+
+footer {
+    background-color:rgba(78, 8, 132, 1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+main h1 {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+ul {
+    text-align: left;
+}
+
+main img {
+    border: solid 3px rgba(122, 18, 202, 1);
+}
+
+.glavnay{
+    border: 2px solid black;
+    color: black;
+}
+
+.mypet{
+    border: 2px solid black;
+    color: black;
+}
+
+.klybzoo{
+    color: rgb(71, 0, 126);
+}
+
+.besit {
+    border: 3px solid rgba(144, 0, 255, 1);
+    color: black;
+}
+
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
